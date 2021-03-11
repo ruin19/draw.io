@@ -1,1 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T01:06:24.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="EJT57MupqnryehXEYVqY" version="14.4.7" type="github"><diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">7VvLcqM4FP0aLyeFeBmWHbe7Z5Gu6pp0VS9TMiigCSBGyIk9Xz8CJPMQdkgax5o23gQuQo97dM69ksjCWqW7rxTm8TcSomRhGuFuYX1emKZpAMD/lJZ9bfF9vzZEFIe1CTSGe/wvEkZDWLc4REWnICMkYTjvGgOSZShgHRuklLx0iz2SpNtqDiOkGO4DmEjrjdPYf+KQxcIOXL958CfCUSwa90y3frCBwVNEyTYTLWYkQ/WTFMpqxCiLGIbkpWWy1gtrRQlh9VW6W6GkdKz0mXyP7WVHF9ZtzNKE3wB+WT3+cuRlMOZlPi6KMtZu7mh9xsZwXOgHrmUhFwR/AE9pAYXcreKWUBaTiGQwWTfW28pTqKzS6HYHZeGnEkl+u0lI8FSbvuBEFvgbMbYXUwduGeGmpok7QnJRrmCUPB1ANCsLpExWXuEjbKJ2Y9Ab0n9kSwN0zAVirkIaIXakjFmXKV3Tqlj4+CsiKWJ0zwtQlECGn7vzFIqJHR3KNQjxCwHSWMDqOp9hshWtfENFUVLDNH5QmBW8A4QqoKoODWERHzCECY4yfh1wzyHKDY8kYwInULk/hnl5k+6iUj1uEM5v0rrhB9Y0y1/kcKxIUl7zdq3AeHSgz+3PiDLMyXoHNyj5TgrMMClb3BDGSNoq8El0hZWT4TikZXG0OwmGeGp5Aj2ha44vKPnS0ghH2OKWPMhy0+LnXz3hzBGEc6cmXPUqHw7ctwrkBGesaNX8vTQ0U8dzulPHtZyuvL5S3raN3mSpe9BMncNQ3jebBqLLPJvUMp428j0Q0WfABlTS/i3473nO4rz8V7KBv1CAc4yqXt3hgk2eCUwc4IcSCyrH8JCUI5gkC3AtrbKA5dXLgD1GBrTRbftE2r3OwrzWgTMl3bRaLr+XYcOE/XVGgaVOjHIUgF6BA7wFDk9Fo+fWx+p34FDriVH9hnlybJqNBkEEGImB6SgQ2AMI2OdAYMDj16Zp7hhNM7QRNTlbZsROI6bP7o85b9dJ/pyETI/lAzDdZUeeLdDbnu29YNony0+/fnA1Tmvq7KWf0xySnWPrkKRXzaEbE6Q8voxxEp/lJVOe5W+R8rhvBUGnlMe6ejn2xgRQfdZxnsaCd6F1XF/U3IuKmv+xova6Pnlv9adG+iRzpfm0cPyuBvB1ivFSOmcE34/gZQVNfmNyxTmCXECfThIsbZIE2d8W6T6jf2DITXfcvZwwprGKYZaVX1D9YnBqYXskTrUpGCIY1l2Q7Y9gWrUiuj184jSUwZ+NjH5vRes4A1w0BrhonoWL87GLpNlpLjr6cNFSuLjOnlFC8jIC/uTMyNH04e8DDjmRGMXDixjDeYKfA9T88wODnz0TbtRB5+TfO72fcOpR5/+RXgFJc1Kg8EFmrTklAb8kZ9oK9OyLJpl6flWorCo+knfOCN5pck7gGJqfEwD1eL1Zht7zlSCaXCMm1AIpAUXV0TN+EWH3PzK6aPAFp0535r2DUenTZWXdUvfvfmCWqGTjw2PKQYyQ07aXhWl40cmTNXEvKgYDrk5xGFbRQ5kGE7jfMzrOH/S9P83mKb9t/mmnlsjm36Ks9X8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-11T01:54:25.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="VqH02nuYSzUrDPTKuTG5" version="14.4.7" type="github">
+  <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
+    <mxGraphModel dx="988" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="440" width="230" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="220" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="230" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-9" value="&lt;span&gt;iOS QQ native&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="410" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-10" value="&lt;span&gt;flutter&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="852" y="10" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-11" value="&lt;span&gt;Android QQ native&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="410" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="801.5000000000002" y="540" as="sourcePoint" />
+            <mxPoint x="540" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="802" y="550" />
+              <mxPoint x="540" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="J3t1SKIbdCMKoWFsVB5H-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="801.5000000000002" y="540" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="802" y="550" />
+              <mxPoint x="1050" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="J3t1SKIbdCMKoWFsVB5H-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="898.4999999999998" y="540" as="sourcePoint" />
+            <mxPoint x="640" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="897" y="540" />
+              <mxPoint x="897" y="570" />
+              <mxPoint x="650" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="898.4999999999998" y="540" as="sourcePoint" />
+            <mxPoint x="1160" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="897" y="570" />
+              <mxPoint x="1160" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-27" value="&lt;span&gt;TRTC(iOS)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="650" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J3t1SKIbdCMKoWFsVB5H-28" target="J3t1SKIbdCMKoWFsVB5H-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-28" value="&lt;span&gt;TRTC Flutter Channel(iOS)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-30" value="&lt;span&gt;IMSDK(iOS)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="650" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="J3t1SKIbdCMKoWFsVB5H-32" target="J3t1SKIbdCMKoWFsVB5H-30" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-32" value="&lt;span&gt;IMSDK Flutter Channel(iOS)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-33" value="&lt;span&gt;TRTC(&lt;/span&gt;Android&lt;span&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="650" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="J3t1SKIbdCMKoWFsVB5H-35" target="J3t1SKIbdCMKoWFsVB5H-33" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-35" value="&lt;span&gt;TRTC Flutter Channel(Android)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-36" value="&lt;span&gt;IMSDK(&lt;/span&gt;Android&lt;span&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="650" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="J3t1SKIbdCMKoWFsVB5H-38" target="J3t1SKIbdCMKoWFsVB5H-36" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-38" value="&lt;span&gt;IMSDK Flutter Channel(&lt;/span&gt;Android&lt;span&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-41" value="&lt;span&gt;TRTC flutter 插件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="762" y="500" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-42" value="IMSDK flutter 插件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860.5" y="500" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J3t1SKIbdCMKoWFsVB5H-43" target="J3t1SKIbdCMKoWFsVB5H-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J3t1SKIbdCMKoWFsVB5H-43" target="J3t1SKIbdCMKoWFsVB5H-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-43" value="通用直播插件（业务无关，负责流管理、音视频管理、房间管理）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="752" y="390" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J3t1SKIbdCMKoWFsVB5H-47" target="J3t1SKIbdCMKoWFsVB5H-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J3t1SKIbdCMKoWFsVB5H-47" target="J3t1SKIbdCMKoWFsVB5H-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-47" value="小世界直播插件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="300" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J3t1SKIbdCMKoWFsVB5H-49" value="其他flutter组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
